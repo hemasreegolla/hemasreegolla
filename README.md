@@ -1,4 +1,4 @@
-Hi, I am Golla Hema Sree. I am an M.Tech student in Artificial Intelligence and Data Science at Usha Rama College of Engineering and Technology.
+Hi, I am Golla Hema Sree. I am an M.Tech student in Artificial Intelligence and Data Science at Velagapudi Ramakrishna Siddhartha Engineering College.
 
 ## About Me
 
